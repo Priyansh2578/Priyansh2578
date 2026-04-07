@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<b>C • Python  • React  • Tailwind  • Git  • Linux</b>
+<b>C • Python • React • Tailwind • Git • Linux</b>
 </p>
 
 ###  Projects
@@ -26,7 +26,7 @@
 
 ###  GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyansh2578&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?Priyansh2578=YOUR_REAL_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 ### ⚡ Quote

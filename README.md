@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=600&lines=BUILDING+DISTRIBUTED+SYSTEM;DSA+WITH+C;SYSTEM+DESIGN+LEARNER" />
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=30&center=true&vCenter=true&width=600&lines=BUILDING+DISTRIBUTED+SYSTEM;DSA+WITH+C;SYSTEM+DESIGN+LEARNER" />
 </p>
 
 ---

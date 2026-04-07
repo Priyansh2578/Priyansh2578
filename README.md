@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh</h1>
+<h1 align="left">Hi 👋, I'm Priyansh</h1>
 
 <h3 align="center"> Software Engineer | System Builder | DSA Enthusiast</h3>
 

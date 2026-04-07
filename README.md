@@ -3,7 +3,8 @@
 <h3 align="left"> Software Engineer | System Builder | DSA Enthusiast</h3>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=30&left=true&vleft=true&width=600&lines=<b>BUILDING+DISTRIBUTED+SYSTEM;DSA+WITH+C;SYSTEM+DESIGN+LEARNER</b>" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=30&left=true&vleft=true&width=600&lines=<b>BUILDING+DISTRIBUTED+SYSTEM;DSA+WITH+C;SYSTEM+DESIGN+LEARNER</b>" />
+</p>
 
 ###  About Me
 -  Building Custom Distributed File System  

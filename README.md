@@ -24,10 +24,5 @@
 -  Custom Distributed File System  
 -  Cyberpunk Dashboard UI  
 
-###  GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?Priyansh2578=YOUR_REAL_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-### ⚡ Quote
+###  Quote
 > 💡 *"Build real things. Stay consistent."*

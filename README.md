@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=c,python,react,tailwind,git,linux" />
 </p>
 
-<p align="center">
+<p align="left">
 <b>C • Python • React • Tailwind • Git • Linux</b>
 </p>
 

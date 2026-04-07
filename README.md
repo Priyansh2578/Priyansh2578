@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<b>C • Python • React • Tailwind • Git • Linux</b>
+<b>C • Python  • React  • Tailwind  • Git  • Linux</b>
 </p>
 
 ###  Projects

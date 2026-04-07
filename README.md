@@ -12,7 +12,7 @@
 -  Exploring Networking & System Design  
 
 ###  Tech Stack
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,python,react,tailwind,git,linux" />
 </p>
 

@@ -12,8 +12,12 @@
 -  Exploring Networking & System Design  
 
 ###  Tech Stack
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,react,tailwind,git,linux" />
+</p>
+
+<p align="center">
+<b>C • Python • React • Tailwind • Git • Linux</b>
 </p>
 
 ###  Projects
